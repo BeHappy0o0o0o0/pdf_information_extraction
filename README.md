@@ -20,7 +20,7 @@
 
 ### 相关资料
 [Camelot: PDF Table Extraction for Humans](https://camelot-py.readthedocs.io/en/master/)  
-~~[python操作pdf](https://yuthegreat.me/view/20
+~~[python操作pdf]
 
 ### 开源许可
 遵守[MIT](./LICENSE)开源许可
